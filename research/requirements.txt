@@ -1,0 +1,7 @@
+scipy>=1.4.0,<1.5.0
+mlxtend==0.18.0
+lightgbm==3.2.1
+xgboost==1.4.2
+tensorflow==2.5.0
+Keras==2.4.3
+markupsafe==2.0.1
